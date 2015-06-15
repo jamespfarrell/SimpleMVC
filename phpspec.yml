@@ -1,0 +1,5 @@
+suites:
+  HelloFresh_suite:
+    namespace: HelloFresh
+    src_path: HelloFresh
+    psr4_prefix: "HelloFresh\\"
